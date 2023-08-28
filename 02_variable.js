@@ -4,7 +4,7 @@
 // 1) var
 // 2) let => variable whose value will change in future like account balance
 // 3) const => variable whose value is not going to change in future like bank account number
-
+// const variable should assign it's value as soon as it's declared
 var name = 'manish';
 let age = 24;
 const mobileNumber = 6653345498;
